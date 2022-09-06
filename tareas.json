@@ -1,0 +1,14 @@
+[
+    {
+        "Titulo": "TP 1 de la Calculadora",
+        "Estado": "Completado"
+    },
+    {
+        "Titulo": "Terciario en Automatización y Robótica",
+        "Estado": "Incompleto"
+    },
+    {
+        "Titulo": "Estudiar inglés",
+        "Estado": "Pendiente"
+    }
+]
